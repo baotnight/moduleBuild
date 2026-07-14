@@ -1,0 +1,9 @@
+names:
+- Dent
+- Hole
+- Rusty
+nc: 3
+path: D:\workspace\module\选题D\数据集3713
+test: images/test
+train: images/train
+val: images/test
